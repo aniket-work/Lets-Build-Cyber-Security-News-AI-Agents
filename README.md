@@ -4,6 +4,8 @@
 The **Cyber Sentinel Dashboard** is an AI-powered cybersecurity news aggregator and analyzer. It leverages OpenAI's GPT-4o model and web scraping tools to provide users with the latest cybersecurity news, summaries, and insights. The dashboard is built using Streamlit for an interactive and visually appealing user interface.
 
 ---
+Full Article : [https://medium.com/@learn-simplified/my-making-of-project-manager-ai-agent-455d2f0bfdca
+---
 
 ## Features
 
@@ -12,6 +14,10 @@ The **Cyber Sentinel Dashboard** is an AI-powered cybersecurity news aggregator 
 - **Interactive Chat**: Engage with an AI-powered cybersecurity analyst for insights and recommendations.
 - **Customizable Search**: Filter news by keywords and categories.
 - **Modern UI**: A futuristic dashboard design for an enhanced user experience.
+
+---
+
+![Design Diagram](design_docs/design.png)
 
 ---
 
@@ -85,6 +91,19 @@ http://localhost:8501
 - Use the chat interface to ask questions or request cybersecurity news.
 
 ---
+
+## Technology Stack
+
+| Component | Technology | Purpose |
+|-----------|------------|---------|
+| Frontend | Streamlit | Interactive dashboard UI |
+| Backend | Python 3.8+ | Core application logic |
+| AI Integration | OpenAI GPT-4o | Analysis and conversation |
+| Web Scraping | BeautifulSoup, aiohttp | News and article fetching |
+| API Framework | LangChain | Tool integration with AI |
+| Data Validation | Pydantic | Request/response models |
+| Environment | python-dotenv | Configuration management |
+| Image Processing | Pillow (PIL) | Dashboard graphics |
 
 ## Project Structure
 
