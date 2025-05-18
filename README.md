@@ -4,7 +4,7 @@
 The **Cyber Sentinel Dashboard** is an AI-powered cybersecurity news aggregator and analyzer. It leverages OpenAI's GPT-4o model and web scraping tools to provide users with the latest cybersecurity news, summaries, and insights. The dashboard is built using Streamlit for an interactive and visually appealing user interface.
 
 ---
-Full Article : [https://medium.com/@learn-simplified/my-making-of-project-manager-ai-agent-455d2f0bfdca
+Full Article : [[https://medium.com/@learn-simplified/my-making-of-project-manager-ai-agent-455d2f0bfdca](https://medium.com/@learn-simplified/lets-build-cyber-security-news-ai-agents-677b16f32765)
 ---
 
 ## Features
